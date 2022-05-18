@@ -1,0 +1,21 @@
+.links{
+    text-decoration: none;
+    list-style: none;
+}
+
+.cart{
+    margin-top: 5% !important;
+}
+
+a{
+text-decoration: none;
+
+}
+
+.title_nav{
+    margin-left: 4%;
+    font-family: 'Blacksword';
+    font-weight: lighter;
+    letter-spacing: 0.25rem;
+    font-size: 300%;
+}
